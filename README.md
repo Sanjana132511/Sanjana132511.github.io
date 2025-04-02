@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from Delhi</h3>
 
 - 💬 Ask me about **React, Express ,Mongodb, Node.js**
 
